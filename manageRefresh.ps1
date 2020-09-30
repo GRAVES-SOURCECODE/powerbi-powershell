@@ -18,7 +18,7 @@
 # dataset ID, in the format: 
 # app.powerbi.com/groups/{groupID}/settings/datasets/{datasetID} 
 
-$groupID = " FILL ME IN " # the ID of the group that hosts the dataset. Use "me" if this is your My Workspace
+$groupID = " me " # the ID of the group that hosts the dataset. Use "me" if this is your My Workspace
 $datasetID = " FILL ME IN " # the ID of the dataset that hosts the dataset
 
 # AAD Client ID
